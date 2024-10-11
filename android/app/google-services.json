@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957701600213",
+    "project_id": "limcard-5ecf2",
+    "storage_bucket": "limcard-5ecf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957701600213:android:3df395e8a5bc167e04435c",
+        "android_client_info": {
+          "package_name": "com.limcad.app.limcad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAlss_kBaEUzB26juw60leDBWixxAK-F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

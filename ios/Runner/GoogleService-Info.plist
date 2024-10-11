@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyD1htq9rRBF9JgKVe6P6bgOW9wZPG6CgXk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>957701600213</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.limcad.app.limcad</string>
+	<key>PROJECT_ID</key>
+	<string>limcard-5ecf2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>limcard-5ecf2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:957701600213:ios:01b610e002ae76e404435c</string>
+</dict>
+</plist>
